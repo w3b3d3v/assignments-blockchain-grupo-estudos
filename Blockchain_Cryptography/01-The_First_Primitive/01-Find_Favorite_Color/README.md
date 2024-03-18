@@ -1,10 +1,4 @@
-# Hashes criptográficos
-
-O objetivo deste desafio é aprender a criar e comparar hashes SHA256 usando [ethereum-crypto](https://github.com/ethereum/js-ethereum-cryptography) (uma biblioteca que usaremos bastante ao longo deste curso).
-O desafio de codificação será derivar a cor favorita de alguém a partir de um determinado hash dessa cor. 
-Boa sorte!
-
-## Hashing de força bruta
+# Hashing de força bruta
 
 As funções de hash criptográficas, como a SHA256, são funções unidirecionais. Isso significa que, se você tiver a entrada, é relativamente fácil encontrar a saída. Por outro lado, se você tiver a saída, é inviável encontrar a entrada.
 
@@ -69,5 +63,6 @@ yarn test
 ou 
 
 ```bash
+cd Blockchain_Cryptography/01-The_First_Primitive/01-Find_Favorite_Color
 yarn mocha ./test.js
 ```
