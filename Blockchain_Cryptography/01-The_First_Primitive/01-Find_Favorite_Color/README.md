@@ -62,7 +62,7 @@ console.log(toHex(aHash) === toHex(bHash)); // falso
 Acesse esse caminho em seu terminal e execute o seguinte comando:
 
 ```bash
-cd Blockchain_Cryptography/The_First_Primitive/1-Find_Favorite_Color/
+cd Blockchain_Cryptography/01-The_First_Primitive/01-Find_Favorite_Color
 yarn test
 ```
 
