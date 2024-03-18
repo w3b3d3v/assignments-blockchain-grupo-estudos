@@ -21,3 +21,18 @@ A biblioteca [noble-secp256k1 (v 1.7.1)](https://github.com/paulmillr/noble-secp
 
 1. Sua primeira etapa é pegar a mensagem de string passada e transformá-la em uma matriz de bytes UTF-8. Você pode fazer isso com a função `utf8ToBytes`.
 2. Em seguida, pegue o hash `keccak256` desses bytes e retorne esse valor.
+
+## 🧪 Executar teste
+
+Para verificar se está correto acesse esse caminho em seu terminal e execute o seguinte comando:
+
+```bash
+cd Blockchain_Cryptography/02-Digital_Signatures/01-Hash_Message
+yarn test
+```
+
+ou 
+
+```bash
+yarn mocha ./test.js
+```

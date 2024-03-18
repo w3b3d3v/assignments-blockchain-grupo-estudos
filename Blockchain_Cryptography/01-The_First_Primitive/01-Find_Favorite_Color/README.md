@@ -59,7 +59,7 @@ console.log(toHex(aHash) === toHex(bHash)); // falso
 
 ## 🧪 Executar teste
 
-Acesse esse caminho em seu terminal e execute o seguinte comando:
+Para verificar se está correto acesse esse caminho em seu terminal e execute o seguinte comando:
 
 ```bash
 cd Blockchain_Cryptography/01-The_First_Primitive/01-Find_Favorite_Color
