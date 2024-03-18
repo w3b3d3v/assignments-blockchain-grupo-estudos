@@ -8,7 +8,7 @@
     "test": "yarn mocha ./test.js"
   },
   "dependencies": {
-    "ethereum-cryptography": "^2.1.3"
+    "ethereum-cryptography": "^1.1.2"
   },
   "devDependencies": {
     "chai": "^4.3.7",
