@@ -1,4 +1,8 @@
-# O primeiro primitivo
+# Hashes criptográficos
+
+O objetivo deste desafio é aprender a criar e comparar hashes SHA256 usando [ethereum-crypto](https://github.com/ethereum/js-ethereum-cryptography) (uma biblioteca que usaremos bastante ao longo deste curso).
+O desafio de codificação será derivar a cor favorita de alguém a partir de um determinado hash dessa cor. 
+Boa sorte!
 
 ## Hashing de força bruta
 
@@ -58,12 +62,12 @@ console.log(toHex(aHash) === toHex(bHash)); // falso
 Acesse esse caminho em seu terminal e execute o seguinte comando:
 
 ```bash
-cd Blockchain_Cryptography/The_First_Primitive/1-Find_Favorite_Color/solution/
+cd Blockchain_Cryptography/The_First_Primitive/1-Find_Favorite_Color/
 yarn test
 ```
 
 ou 
 
 ```bash
-yarn mocha ./src/test.js
+yarn mocha ./test.js
 ```

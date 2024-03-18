@@ -1,5 +1,5 @@
 const {assert} = require('chai');
-const findColor = require('./index');
+const findColor = require('./challenge');
 const { sha256 } = require("ethereum-cryptography/sha256");
 const { utf8ToBytes } = require("ethereum-cryptography/utils");
 
