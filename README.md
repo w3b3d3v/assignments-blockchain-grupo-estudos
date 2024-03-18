@@ -1,0 +1,1 @@
+# Atividades grupo de estudos Solidity
