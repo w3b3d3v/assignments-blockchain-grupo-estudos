@@ -27,12 +27,13 @@ A biblioteca [noble-secp256k1 (v 1.7.1)](https://github.com/paulmillr/noble-secp
 Para verificar se está correto acesse esse caminho em seu terminal e execute o seguinte comando:
 
 ```bash
-cd Blockchain_Cryptography/02-Digital_Signatures/01-Hash_Message
+cd Blockchain_Cryptography/02-Digital_Signatures/01-Hash_Message/src
 yarn test
 ```
 
 ou 
 
 ```bash
+cd Blockchain_Cryptography/02-Digital_Signatures/01-Hash_Message/src
 yarn mocha ./test.js
 ```

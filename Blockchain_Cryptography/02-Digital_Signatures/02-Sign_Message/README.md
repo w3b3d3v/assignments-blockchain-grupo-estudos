@@ -35,13 +35,13 @@ Vamos assinar uma mensagem!
 Para verificar se está correto acesse esse caminho em seu terminal e execute o seguinte comando:
 
 ```bash
-cd Blockchain_Cryptography/02-Digital_Signatures/02-Sign_Message
+cd Blockchain_Cryptography/02-Digital_Signatures/02-Sign_Message/src
 yarn test
 ```
 
 ou 
 
 ```bash
-cd Blockchain_Cryptography/02-Digital_Signatures/02-Sign_Message
+cd Blockchain_Cryptography/02-Digital_Signatures/02-Sign_Message/src
 yarn mocha ./test.js
 ```

@@ -56,13 +56,13 @@ console.log(toHex(aHash) === toHex(bHash)); // falso
 Para verificar se está correto acesse esse caminho em seu terminal e execute o seguinte comando:
 
 ```bash
-cd Blockchain_Cryptography/01-The_First_Primitive/01-Find_Favorite_Color
+cd Blockchain_Cryptography/01-The_First_Primitive/01-Find_Favorite_Color/src
 yarn test
 ```
 
 ou 
 
 ```bash
-cd Blockchain_Cryptography/01-The_First_Primitive/01-Find_Favorite_Color
+cd Blockchain_Cryptography/01-The_First_Primitive/01-Find_Favorite_Color/src
 yarn mocha ./test.js
 ```
