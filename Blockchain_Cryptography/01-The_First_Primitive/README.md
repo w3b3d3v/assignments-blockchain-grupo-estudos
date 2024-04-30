@@ -6,4 +6,4 @@ O desafio de codificação será derivar a cor favorita de alguém a partir de u
 
 Boa sorte!
 
-[Start coding](./01-The_First_Primitive/01-Find_Favorite_Color)
+[Start coding](./01-Find_Favorite_Color)
