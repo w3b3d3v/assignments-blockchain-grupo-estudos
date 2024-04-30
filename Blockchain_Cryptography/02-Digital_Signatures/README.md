@@ -5,3 +5,4 @@ Nesta série de exercícios, vamos nos concentrar na criptografia de chave públ
 Esses conceitos nos ajudarão a entender como o protocolo blockchain funciona e nos fornecerão as ferramentas para usar a autenticação de assinatura digital quando precisarmos provar a intenção de um usuário. Esse conhecimento será fundamental ao criar aplicativos que interagem com o blockchain, bem como contratos inteligentes no blockchain.
 Vamos começar!
 
+[Start coding](./01-Hash_Message)
