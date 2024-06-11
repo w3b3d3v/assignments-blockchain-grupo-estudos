@@ -2,8 +2,11 @@ const SHA256 = require('crypto-js/sha256');
 
 class Block {
     toHash() {
-        return // Um hash!
+        return SHA256("Test")
     }
 }
+
+const newBlock = new Block();
+console.log(newBlock.toHash());
 
 module.exports = Block;

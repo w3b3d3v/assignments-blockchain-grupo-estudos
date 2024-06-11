@@ -12,6 +12,7 @@
     "ethereum-cryptography": "^1.1.2"
   },
   "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
     "chai": "^4.3.7",
     "mocha": "^10.2.0"
   }
