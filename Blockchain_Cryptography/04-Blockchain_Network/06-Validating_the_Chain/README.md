@@ -12,9 +12,9 @@ Os blockchains são executados por uma rede de computadores. Quando um computado
 
 Diz-se que as blockchains compartilham uma fonte comum de verdade. Isso ocorre porque todas as máquinas que operam na rede podem chegar a um **consenso** comum sobre qual é a verdade.
 
-O mecanismo de consenso que descrevemos nesta lição é chamado de **Prova de Trabalho**. Uma das principais regras do Proof of Work é que a **cadeia mais longa** vence. Essa regra existe para garantir que a versão do blockchain com** mais recursos computacionais** seja a versão atual da verdade.
+O mecanismo de consenso que descrevemos nesta lição é chamado de **Prova de Trabalho**. Uma das principais regras do Proof of Work é que a **cadeia mais longa** vence. Essa regra existe para garantir que a versão do blockchain com **mais recursos computacionais** seja a versão atual da verdade.
 
-Portanto, a pergunta que devemos fazer a nós mesmos é:** Por que é tão difícil computar um novo bloco?** 🤔
+Portanto, a pergunta que devemos fazer a nós mesmos é: **Por que é tão difícil computar um novo bloco?** 🤔
 
 A resposta é que ele foi **projetado para ser difícil**. A dificuldade é um **recurso** de uma blockchain projetada para exigir recursos significativos a fim de derivar um novo bloco. Essa é a **segurança** por trás da rede, o que a torna extremamente cara para ser atacada. 🔒
 
