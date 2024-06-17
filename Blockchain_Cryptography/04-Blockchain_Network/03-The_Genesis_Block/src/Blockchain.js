@@ -2,14 +2,8 @@ const Block = require('./Block');
 
 class Blockchain {
     constructor() {
-        this.chain = [ new Block() ];
+        this.chain = [ /* TODO: Crie o bloco genesis aqui */ ];
     }
 }
 
-
-const blockchain = new Blockchain();
-const genesisBlock = blockchain.chain[0];
-
-console.log(blockchain);
-console.log(genesisBlock);
 module.exports = Blockchain;
