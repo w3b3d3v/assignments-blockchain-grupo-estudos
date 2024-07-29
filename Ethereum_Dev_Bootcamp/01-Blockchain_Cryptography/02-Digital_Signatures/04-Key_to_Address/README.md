@@ -17,13 +17,13 @@ Vamos obter o endereço da ethereum a partir da chave pública!
 Para verificar se está correto acesse esse caminho em seu terminal e execute o seguinte comando:
 
 ```bash
-cd Blockchain_Cryptography/02-Digital_Signatures/04-Key_to_Address/src
+cd 01-Blockchain_Cryptography/02-Digital_Signatures/04-Key_to_Address/src
 yarn test
 ```
 
 ou 
 
 ```bash
-cd Blockchain_Cryptography/02-Digital_Signatures/04-Key_to_Address/src
+cd 01-Blockchain_Cryptography/02-Digital_Signatures/04-Key_to_Address/src
 yarn mocha ./test.js
 ```

@@ -15,13 +15,13 @@ Use a documentação da [biblioteca noble-secp256k1](https://github.com/paulmill
 Para verificar se está correto acesse esse caminho em seu terminal e execute o seguinte comando:
 
 ```bash
-cd Blockchain_Cryptography/02-Digital_Signatures/03-Recover_Key/src
+cd 01-Blockchain_Cryptography/02-Digital_Signatures/03-Recover_Key/src
 yarn test
 ```
 
 ou 
 
 ```bash
-cd Blockchain_Cryptography/02-Digital_Signatures/03-Recover_Key/src
+cd 01-Blockchain_Cryptography/02-Digital_Signatures/03-Recover_Key/src
 yarn mocha ./test.js
 ```

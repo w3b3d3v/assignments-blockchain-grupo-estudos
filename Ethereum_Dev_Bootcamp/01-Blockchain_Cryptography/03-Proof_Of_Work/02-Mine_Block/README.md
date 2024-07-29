@@ -17,13 +17,13 @@ Para fins deste exercício de mineração, nosso bloco será um objeto com uma �
 Para verificar se está correto acesse esse caminho em seu terminal e execute o seguinte comando:
 
 ```bash
-cd Blockchain_Cryptography/03-Proof_Of_Work/02-Mine_Block/src
+cd 01-Blockchain_Cryptography/03-Proof_Of_Work/02-Mine_Block/src
 yarn test
 ```
 
 ou 
 
 ```bash
-cd Blockchain_Cryptography/03-Proof_Of_Work/02-Mine_Block/src
+cd 01-Blockchain_Cryptography/03-Proof_Of_Work/02-Mine_Block/src
 yarn mocha ./test.js
 ```

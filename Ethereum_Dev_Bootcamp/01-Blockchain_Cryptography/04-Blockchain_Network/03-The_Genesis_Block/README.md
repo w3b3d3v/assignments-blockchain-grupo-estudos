@@ -33,13 +33,13 @@ Crie um `new Block` no construtor do Blockchain e, em seguida, adicione-o ao arr
 Para verificar se está correto acesse esse caminho em seu terminal e execute o seguinte comando:
 
 ```bash
-cd Blockchain_Cryptography/04-Blockchain_Network/03-The-Genesis-Block/src
+cd 01-Blockchain_Cryptography/04-Blockchain_Network/03-The-Genesis-Block/src
 yarn test
 ```
 
 ou 
 
 ```bash
-cd Blockchain_Cryptography/04-Blockchain_Network/03-The-Genesis-Block/src
+cd 01-Blockchain_Cryptography/04-Blockchain_Network/03-The-Genesis-Block/src
 yarn mocha ./test.js
 ```

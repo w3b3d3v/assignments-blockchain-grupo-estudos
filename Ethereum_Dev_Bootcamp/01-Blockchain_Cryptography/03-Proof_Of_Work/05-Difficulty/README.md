@@ -24,13 +24,13 @@ const int = BigInt(`0x${hash}`);
 Para verificar se está correto acesse esse caminho em seu terminal e execute o seguinte comando:
 
 ```bash
-cd Blockchain_Cryptography/03-Proof_Of_Work/05-Difficulty/src
+cd 01-Blockchain_Cryptography/03-Proof_Of_Work/05-Difficulty/src
 yarn test
 ```
 
 ou 
 
 ```bash
-cd Blockchain_Cryptography/03-Proof_Of_Work/05-Difficulty/src
+cd 01-Blockchain_Cryptography/03-Proof_Of_Work/05-Difficulty/src
 yarn mocha ./test.js
 ```

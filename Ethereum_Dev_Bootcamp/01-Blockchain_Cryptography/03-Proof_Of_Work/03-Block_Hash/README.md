@@ -18,13 +18,13 @@ Se algo for alterado no cabeçalho, isso afetará o hash. Como cada bloco també
 Para verificar se está correto acesse esse caminho em seu terminal e execute o seguinte comando:
 
 ```bash
-cd Blockchain_Cryptography/03-Proof_Of_Work/03-Block_Hash/src
+cd 01-Blockchain_Cryptography/03-Proof_Of_Work/03-Block_Hash/src
 yarn test
 ```
 
 ou 
 
 ```bash
-cd Blockchain_Cryptography/03-Proof_Of_Work/03-Block_Hash/src
+cd 01-Blockchain_Cryptography/03-Proof_Of_Work/03-Block_Hash/src
 yarn mocha ./test.js
 ```

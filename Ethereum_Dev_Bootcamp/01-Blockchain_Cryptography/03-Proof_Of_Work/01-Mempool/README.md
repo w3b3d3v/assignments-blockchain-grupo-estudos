@@ -17,13 +17,13 @@ Seu objetivo é implementar a função `addTransaction`, que adiciona transaçõ
 Para verificar se está correto acesse esse caminho em seu terminal e execute o seguinte comando:
 
 ```bash
-cd Blockchain_Cryptography/03-Proof_Of_Work/01-Mempool/src
+cd 01-Blockchain_Cryptography/03-Proof_Of_Work/01-Mempool/src
 yarn test
 ```
 
 ou 
 
 ```bash
-cd Blockchain_Cryptography/03-Proof_Of_Work/01-Mempool/src
+cd 01-Blockchain_Cryptography/03-Proof_Of_Work/01-Mempool/src
 yarn mocha ./test.js
 ```
