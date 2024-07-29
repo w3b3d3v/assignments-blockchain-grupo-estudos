@@ -18,13 +18,13 @@ A parte importante é garantir que haja **valor total suficiente** nos UTXOs de 
 Para verificar se está correto acesse esse caminho em seu terminal e execute o seguinte comando:
 
 ```bash
-cd 02-Blockchain_Storage/01-Keeping_Track_of_Blockchain_User_State/03-Inputs_&_Outputs/src
+cd 02-Blockchain_Storage/01-Keeping_Track_of_Blockchain_User_State/03-Sufficient_Amount/src
 yarn test
 ```
 
 ou 
 
 ```bash
-cd 02-Blockchain_Storage/01-Keeping_Track_of_Blockchain_User_State/03-Inputs_&_Outputs/src
+cd 02-Blockchain_Storage/01-Keeping_Track_of_Blockchain_User_State/03-Sufficient_Amount/src
 yarn mocha ./test.js
 ```
