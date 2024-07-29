@@ -39,13 +39,13 @@ Boa dica! 🎩
 Para verificar se está correto acesse esse caminho em seu terminal e execute o seguinte comando:
 
 ```bash
-cd 02-Blockchain_Storage/01-Keeping_Track_of_Blockchain_User_State/04-Successful_Execute/src
+cd 02-Blockchain_Storage/01-Keeping_Track_of_Blockchain_User_State/05-Miners_Fee/src
 yarn test
 ```
 
 ou 
 
 ```bash
-cd 02-Blockchain_Storage/01-Keeping_Track_of_Blockchain_User_State/04-Successful_Execute/src
+cd 02-Blockchain_Storage/01-Keeping_Track_of_Blockchain_User_State/05-Miners_Fee/src
 yarn mocha ./test.js
 ```
